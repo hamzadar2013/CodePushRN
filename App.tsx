@@ -18,7 +18,7 @@ let codePushOptions = {
   checkFrequency: CodePush.CheckFrequency.ON_APP_RESUME,
   installMode: CodePush.InstallMode.IMMEDIATE, 
   updateDialog: {
-    title: "Update available",
+    title: "Update available!",
     optionalUpdateMessage:
       "An update is available. Would you like  to install it?",
     mandatoryUpdateMessage:
