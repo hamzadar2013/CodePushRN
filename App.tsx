@@ -46,8 +46,6 @@ function App(): React.JSX.Element {
           );
         }
       });
-    } else {
-      messagingRequest();
     }
   };
   async function messagingRequest() {
